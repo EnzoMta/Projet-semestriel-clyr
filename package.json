@@ -1,0 +1,28 @@
+{
+  "name": "projet-semestriel-transverse",
+  "version": "1.0.0",
+  "description": "Projet semestriel transverse entre data et dev",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node src/index.js",
+    "dev" : "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnzoMta/Projet-semestriel-transverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EnzoMta/Projet-semestriel-transverse/issues"
+  },
+  "homepage": "https://github.com/EnzoMta/Projet-semestriel-transverse#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
